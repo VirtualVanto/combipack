@@ -1,0 +1,13 @@
+name = "Easy Experience"
+filename = "easyexperience-1.6.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ef75850415bc752f5f0e9f78f677643e1c4c2c2e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4575662
+project-id = 817899

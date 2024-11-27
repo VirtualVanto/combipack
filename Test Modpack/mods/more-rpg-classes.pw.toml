@@ -1,0 +1,13 @@
+name = "More RPG Library"
+filename = "more_rpg_classes-1.2.6-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "25af26cc8d10307e868bf9c1ca6327b725bd097e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5765872
+project-id = 923030

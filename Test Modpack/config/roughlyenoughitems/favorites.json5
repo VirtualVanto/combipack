@@ -1,0 +1,10 @@
+{
+	"favorites": [
+		"{data:{Count:1b,id:\"minecraft:leather_helmet\",tag:{AttributeModifiers:[{Amount:1.0d,AttributeName:\"minecraft:generic.armor\",Name:\"base_armor\",Operation:0,Slot:\"head\",UUID:[I;-678785847,571886541,-1421338122,-797564624]},{Amount:0.02d,AttributeName:\"minecraft:generic.attack_damage\",Name:\"base_bonus\",Operation:2,Slot:\"head\",UUID:[I;1386283632,1965442722,-1887212290,-1198503676]}],Damage:0,display:{Name:'{\"translate\":\"set.aquamirae.dead_sea_hat\"}',color:711840}},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{Count:1b,id:\"minecraft:bowl\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{Count:1b,id:\"minecraft:leather_chestplate\",tag:{AttributeModifiers:[{Amount:3.0d,AttributeName:\"minecraft:generic.armor\",Name:\"base_armor\",Operation:0,Slot:\"chest\",UUID:[I;-2021712793,-1907799050,-1896305355,-2116094731]},{Amount:0.05d,AttributeName:\"obscure_api:penetration\",Name:\"base_bonus\",Operation:2,Slot:\"chest\",UUID:[I;-553439829,1122255989,-1626259273,-1679682448]}],Damage:0,Enchantments:[{id:\"minecraft:unbreaking\",lvl:1s}],display:{Name:'{\"translate\":\"set.aquamirae.twilight_grotto_doublet\"}',color:704220}},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{Count:1b,id:\"betternether:flaming_ruby_sword\",tag:{Damage:2723,Enchantments:[{id:\"betternether:ruby_fire\",lvl:1s},{id:\"minecraft:looting\",lvl:1s}]},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
+	],
+	"hiddenFavorites": [],
+	"displays": []
+}
