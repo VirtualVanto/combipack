@@ -3,11 +3,11 @@ filename = "Lexiconfig-forge-1.3.11.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b43672fda8de755cd822d3c4cc9a67f65a9ea5d1"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/D157Rgyf/versions/lwVdnWWV/Lexiconfig-forge-1.3.11.jar"
+hash-format = "sha512"
+hash = "72bf0cd184114af4fa8a650d784b29c78a7e7fee628193e90e500fa215ee1f7cf437844d1749214bb671678b5e850f1ad276ac82731b9b224a07c157fdb86960"
 
 [update]
-[update.curseforge]
-file-id = 5433945
-project-id = 1019452
+[update.modrinth]
+mod-id = "D157Rgyf"
+version = "lwVdnWWV"
